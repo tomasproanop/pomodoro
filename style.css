@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+
+* {
+box-sizing: border-box;
+}
+
+
+body {
+background-image: url(https://www.pinclipart.com/picdir/big/535-5357059_slice-of-tomato-clip-arts-sliced-tomato-clip.png);
+background-repeat: no-repeat; 
+background-size: 100vh;
+background-attachment: fixed;
+background-position: center;
+font-family: 'Nanum Gothic', sans-serif;
+min-height: 100vh;
+display: flex;
+background-color: #ffb8b8;
+align-items: center;
+justify-contents: center;
+text-align: center;
+}
+
+button {
+  background-color: #4ca86e;
+  padding: 10px 15px;
+  margin: 10px;
+  font-size: 20px;
+  border-radius: 10px;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+  jusfity-center: center;
+}
+
+.timer-container {
+  margin: 50px 20px 20px;
+  background-color: #ffb8b8;
+  border-radius: 10px;
+  border: 2px solid black;
+}
+
+.timer-container h2 {
+  text-align: center;
+}
+
+.actions-wrapper span {
+  font-size: 40px;
+  margin 0 10px;
+}
+
+.clock-container {
+  border: 2px solid black;
+  border-radius: 10px;
+  display: inline-block;
+  text-align: center;
+  padding: 10px 100px;
+  margin: 20px;
+  background-color: #ffb8b8;
+
+}
+
+.clock-container h1 {
+  margin: 0;
+}
+
+.clock-container span {
+font-size: 60px;
+}
