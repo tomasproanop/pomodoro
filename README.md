@@ -2,7 +2,7 @@
 
 ### About the project
 
-<img src="https://github.com/tomasproanop/pomodoro/blob/main/pomodoro.jpeg" width="350" height="350">
+<img src="https://github.com/tomasproanop/pomodoro/blob/main/pomodoro.jpeg" width="500" height="500">
 
 This is a small project created as part of the final projects of the Front End Libraries Certification (300 hours) of [FreeCodeCamp](https://www.freecodecamp.org/learn). 
 
